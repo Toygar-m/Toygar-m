@@ -15,4 +15,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toygar-m&show_icons=true&locale=en" alt="toygar-m" /></p>
 
+![snake gif](https://github.com/Toygar-m/Toygar-m/blob/output/github-snake-dark.svg)
 
