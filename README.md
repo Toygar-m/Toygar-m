@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm toygar</h1>
-<h3 align="center">I am a software development student and I am from Turkey.</h3>
+<h3 align="center">I am a software development student.</h3>
 
 - 📫 How to reach me **tmalkoc94@gmail.com**
 
@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toygar-m&show_icons=true&locale=en" alt="toygar-m" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toygar-m&" alt="toygar-m" /></p>
+
