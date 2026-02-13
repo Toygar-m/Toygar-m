@@ -39,10 +39,5 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Toygar-m&show_icons=true&theme=tokyonight&count_private=true" alt="Toygar's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toygar-m&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toygar-m&theme=tokyonight" alt="GitHub Streak" />
 </p>
