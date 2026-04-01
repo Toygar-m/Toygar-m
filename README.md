@@ -11,7 +11,6 @@
 - 🚀 I’m currently exploring the world of **Full Stack Development**.
 - 🎓 Software Development Student focusing on building scalable applications.
 - 📫 Reach me at: **[tmalkoc94@gmail.com](mailto:tmalkoc94@gmail.com)**
-- ⚡ Fun fact: I love bridging the gap between hardware (Arduino) and modern web apps.
 
 ### 🌐 Connect with me:
 <p align="left">
