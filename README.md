@@ -62,13 +62,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toygar-m&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=58a6ff&text_color=c9d1d9&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toygar-m&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=c9d1d9&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Toygar-m&theme=merko&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=58a6ff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
