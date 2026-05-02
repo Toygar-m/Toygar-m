@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,141414&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+
 ```
  ████████╗ ██████╗ ██╗   ██╗ ██████╗  █████╗ ██████╗ 
     ██╔══╝██╔═══██╗╚██╗ ██╔╝██╔════╝ ██╔══██╗██╔══██╗
@@ -9,23 +11,24 @@
     ╚═╝    ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=Full+Stack+Developer+in+the+making...;Building+multi-tenant+SaaS+platforms;Next.js+%7C+Fastify+%7C+TypeScript+%7C+PostgreSQL;Open+to+collaborations+%E2%9C%A8)](https://git.io/typing-svg)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Toygar-m&label=Profile+Views&color=00ff41&style=flat-square)
 
 </div>
 
 ---
 
-> 👋 Hi, I'm **Toygar Malkoç** — a Full Stack Developer in the making.  
+> 👋 Hi, I'm **Toygar Malkoç** — a Full Stack Developer in the making.
 > Building scalable web apps, SaaS platforms, and occasionally making hardware do weird things.
 
 ---
 
-
 ```json
 {
   "focus"    : "Full Stack Development",
-  "currently": "Building a multi-tenant SaaS e-commerce platform",
-  "stack"    : ["Next.js", "Fastify", "TypeScript", "PostgreSQL"],
+  "currently": "Building ClaudeShop — a multi-tenant SaaS e-commerce platform",
+  "stack"    : ["Next.js", "Fastify", "TypeScript", "PostgreSQL", "Prisma"],
   "bonus"    : "UAV systems + embedded hardware on the side",
   "email"    : "tmalkoc94@gmail.com",
   "status"   : "open to collaborations"
@@ -34,16 +37,35 @@
 
 ---
 
+## 🛠 Tech Stack
+
 <div align="center">
 
-| Languages | Frontend | Backend | Database & Cloud | Tools |
-|:---------:|:--------:|:-------:|:----------------:|:-----:|
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-178600?style=flat-square&logo=csharp&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+<p><kbd>🖥 Frontend & Languages</kbd></p>
+<img src="https://skillicons.dev/icons?i=ts,python,cs,react,nextjs,tailwind&theme=dark&perline=6" />
+
+<br/>
+
+<p><kbd>⚙️ Backend & Database</kbd></p>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,prisma,firebase&theme=dark&perline=5" />
+
+<br/>
+
+<p><kbd>🔧 Tools & Other</kbd></p>
+<img src="https://skillicons.dev/icons?i=linux,arduino,docker,git&theme=dark&perline=4" />
 
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toygar-m&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=58a6ff&text_color=c9d1d9&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toygar-m&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=c9d1d9&langs_count=6"/>
+
+</div>
 
 <div align="center">
 
@@ -51,22 +73,52 @@
 
 </div>
 
+---
+
+## 📈 Contribution Activity
+
 <div align="center">
 
-[![Toygar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Toygar-m&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/Toygar-m)
+[![Toygar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Toygar-m&bg_color=0D1117&color=00ff41&line=00ff41&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
+## 🌱 Currently Learning
+
+```bash
+toygar@github:~$ cat learning.log
+
+[2025] ▶ Multi-tenant SaaS architecture patterns
+[2025] ▶ Visual editor design (iframe + postMessage)
+[2025] ▶ Monorepo structure with shared TypeScript types
+[2025] ▶ UAV/embedded systems (Arduino, flight controllers)
+```
+
+---
+
+## 📬 Connect
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/%5B_LinkedIn_%5D-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/toygar-malkoç-324335259)
-[![Email](https://img.shields.io/badge/%5B_Email_%5D-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tmalkoc94@gmail.com)
+<a href="https://linkedin.com/in/toygar-malko%C3%A7-324335259">
+  <img src="https://img.shields.io/badge/LinkedIn-Toygar%20Malko%C3%A7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:tmalkoc94@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-tmalkoc94@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Toygar-m">
+  <img src="https://img.shields.io/badge/GitHub-Toygar--m-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,141414,0d1117&height=100&section=footer" width="100%"/>
 
 <div align="center">
   <sub><code>▶ toygar@github:~$ █</code></sub>
