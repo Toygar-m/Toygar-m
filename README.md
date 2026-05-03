@@ -24,19 +24,6 @@
 
 ---
 
-```json
-{
-  "focus"    : "Full Stack Development",
-  "currently": "Building ClaudeShop — a multi-tenant SaaS e-commerce platform",
-  "stack"    : ["Next.js", "Fastify", "TypeScript", "PostgreSQL", "Prisma"],
-  "bonus"    : "UAV systems + embedded hardware on the side",
-  "email"    : "tmalkoc94@gmail.com",
-  "status"   : "open to collaborations"
-}
-```
-
----
-
 ## 🛠 Tech Stack
 
 <div align="center">
