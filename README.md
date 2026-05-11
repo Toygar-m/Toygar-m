@@ -1,105 +1,48 @@
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0,0d1117,1a1f35,2d1b69&height=160&section=header&text=Toygar&fontSize=42&fontColor=ffffff&fontAlignY=52&desc=Full%20Stack%20Developer&descAlignY=76&descSize=16&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,141414&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1500&color=818CF8&center=true&vCenter=true&width=560&height=32&lines=Full+Stack+Developer+in+the+making...;Next.js+%E2%80%A2+Fastify+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
 
-```
- ████████╗ ██████╗ ██╗   ██╗ ██████╗  █████╗ ██████╗ 
-    ██╔══╝██╔═══██╗╚██╗ ██╔╝██╔════╝ ██╔══██╗██╔══██╗
-    ██║   ██║   ██║ ╚████╔╝ ██║  ███╗███████║██████╔╝
-    ██║   ██║   ██║  ╚██╔╝  ██║   ██║██╔══██║██╔══██╗
-    ██║   ╚██████╔╝   ██║   ╚██████╔╝██║  ██║██║  ██║
-    ╚═╝    ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-```
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=Full+Stack+Developer+in+the+making...;Building+multi-tenant+SaaS+platforms;Next.js+%7C+Fastify+%7C+TypeScript+%7C+PostgreSQL;Open+to+collaborations+%E2%9C%A8)](https://git.io/typing-svg)
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Toygar-m&label=Profile+Views&color=00ff41&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1f35?style=flat-square&logo=typescript&logoColor=818CF8)
+![React](https://img.shields.io/badge/React-1a1f35?style=flat-square&logo=react&logoColor=818CF8)
+![Next.js](https://img.shields.io/badge/Next.js-1a1f35?style=flat-square&logo=next.js&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-1a1f35?style=flat-square&logo=node.js&logoColor=818CF8)
+![Fastify](https://img.shields.io/badge/Fastify-1a1f35?style=flat-square&logo=fastify&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1f35?style=flat-square&logo=postgresql&logoColor=818CF8)
+![Python](https://img.shields.io/badge/Python-1a1f35?style=flat-square&logo=python&logoColor=F472B6)
+![C#](https://img.shields.io/badge/C%23-1a1f35?style=flat-square&logo=dotnet&logoColor=F472B6)
+![Docker](https://img.shields.io/badge/Docker-1a1f35?style=flat-square&logo=docker&logoColor=818CF8)
+![Linux](https://img.shields.io/badge/Linux-1a1f35?style=flat-square&logo=linux&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/Firebase-1a1f35?style=flat-square&logo=firebase&logoColor=F472B6)
 
 </div>
 
 ---
 
-> 👋 Hi, I'm **Toygar Malkoç** — a Full Stack Developer in the making.
-> Building scalable web apps, SaaS platforms, and occasionally making hardware do weird things.
-
----
-
-## 🛠 Tech Stack
+### Stats
 
 <div align="center">
 
-<p><kbd>🖥 Frontend & Languages</kbd></p>
-<img src="https://skillicons.dev/icons?i=ts,python,cs,react,nextjs,tailwind&theme=dark&perline=6" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Toygar-m&theme=transparent&hide_border=true&background=0D1117&ring=818CF8&fire=F472B6&currStreakLabel=818CF8&sideLabels=6b7280&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" height="160"/>
 
-<br/>
-
-<p><kbd>⚙️ Backend & Database</kbd></p>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,prisma,firebase&theme=dark&perline=5" />
-
-<br/>
-
-<p><kbd>🔧 Tools & Other</kbd></p>
-<img src="https://skillicons.dev/icons?i=linux,arduino,docker,git&theme=dark&perline=4" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Toygar-m&bg_color=0D1117&color=818CF8&line=818CF8&point=F472B6&area=true&area_color=2d1b69&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Toygar-m&theme=merko&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=58a6ff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e)](https://git.io/streak-stats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1f35?style=for-the-badge&logo=linkedin&logoColor=818CF8)](https://linkedin.com/in/toygar-malkoç-324335259)
+[![Gmail](https://img.shields.io/badge/Gmail-1a1f35?style=for-the-badge&logo=gmail&logoColor=F472B6)](mailto:tmalkoc94@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1f35?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Toygar-m)
+![Views](https://komarev.com/ghpvc/?username=Toygar-m&label=views&color=818CF8&style=for-the-badge)
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Toygar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Toygar-m&bg_color=0D1117&color=00ff41&line=00ff41&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-```bash
-toygar@github:~$ cat learning.log
-
-[2025] ▶ Multi-tenant SaaS architecture patterns
-[2025] ▶ Visual editor design (iframe + postMessage)
-[2025] ▶ Monorepo structure with shared TypeScript types
-[2025] ▶ UAV/embedded systems (Arduino, flight controllers)
-```
-
----
-
-## 📬 Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/toygar-malko%C3%A7-324335259">
-  <img src="https://img.shields.io/badge/LinkedIn-Toygar%20Malko%C3%A7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:tmalkoc94@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-tmalkoc94@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/Toygar-m">
-  <img src="https://img.shields.io/badge/GitHub-Toygar--m-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,141414,0d1117&height=100&section=footer" width="100%"/>
-
-<div align="center">
-  <sub><code>▶ toygar@github:~$ █</code></sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0,2d1b69,1a1f35,0d1117&height=80&section=footer&reversal=true" width="100%"/>
